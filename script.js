@@ -15,11 +15,11 @@ const quotes = [
     "Simplicity is the ultimate sophistication.",
     "Do more of what makes you happy.",
     "Dream big and dare to fail.",
-    "In the middle of every difficulty lies opportunity. — Albert Einstein",
-    "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill",
-    "The future belongs to those who believe in the beauty of their dreams. — Eleanor Roosevelt",
-    "Do not go where the path may lead, go instead where there is no path and leave a trail. — Ralph Waldo Emerson",
-    "Happiness is not something ready-made. It comes from your own actions. — Dalai Lama",
+    "In the middle of every difficulty lies opportunity. Albert Einstein",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. Winston Churchill",
+    "The future belongs to those who believe in the beauty of their dreams. Eleanor Roosevelt",
+    "Do not go where the path may lead, go instead where there is no path and leave a trail. Ralph Waldo Emerson",
+    "Happiness is not something ready-made. It comes from your own actions. Dalai Lama",
 ];
 
 let startTime;
