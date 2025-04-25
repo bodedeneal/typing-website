@@ -10,11 +10,6 @@ const quotes = [
     "Practice makes perfect!",
     "Stay focused and keep typing.",
     "Programming is thinking, not typing.",
-    "Life is short, smile while you still have teeth.",
-    "Be yourself; everyone else is already taken.",
-    "Simplicity is the ultimate sophistication.",
-    "Do more of what makes you happy.",
-    "Dream big and dare to fail.",
 ];
 
 let startTime;
