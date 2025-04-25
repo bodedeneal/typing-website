@@ -9,7 +9,7 @@ const quotes = [
     "Typing tests improve your speed and accuracy.",
     "Practice makes perfect!",
     "Stay focused and keep typing.",
-    "Programming is thinking, not typing.",
+    "Programming is thinking, not typing."
 ];
 
 let startTime;
