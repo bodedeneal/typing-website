@@ -5,11 +5,29 @@ const accuracyElement = document.getElementById('accuracy');
 const restartButton = document.getElementById('restart-btn');
 
 const quotes = [
-    "The quick brown fox jumps over the lazy dog.",
-    "Typing tests improve your speed and accuracy.",
-    "Practice makes perfect!",
-    "Stay focused and keep typing.",
-    "Programming is thinking, not typing."
+    // Short Quotes
+    "Life is short, smile while you still have teeth.",
+    "Be yourself; everyone else is already taken.",
+    "Simplicity is the ultimate sophistication.",
+    "Do more of what makes you happy.",
+    "Dream big and dare to fail.",
+    "Keep calm and carry on.",
+    "Actions speak louder than words.",
+    "When nothing goes right, go left.",
+    "Stay positive, work hard, make it happen.",
+    "Happiness depends upon ourselves.",
+    
+    // Long Quotes
+    "In the middle of every difficulty lies opportunity. — Albert Einstein",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill",
+    "The future belongs to those who believe in the beauty of their dreams. — Eleanor Roosevelt",
+    "Do not go where the path may lead, go instead where there is no path and leave a trail. — Ralph Waldo Emerson",
+    "Happiness is not something ready-made. It comes from your own actions. — Dalai Lama",
+    "The only limit to our realization of tomorrow will be our doubts of today. — Franklin D. Roosevelt",
+    "It does not matter how slowly you go as long as you do not stop. — Confucius",
+    "Perseverance is not a long race; it is many short races one after the other. — Walter Elliot",
+    "What lies behind us and what lies before us are tiny matters compared to what lies within us. — Ralph Waldo Emerson",
+    "Your time is limited, so don't waste it living someone else's life. — Steve Jobs"
 ];
 
 let startTime;
